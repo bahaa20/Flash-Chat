@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "673897929115",
+    "firebase_url": "https://flash-shat-32b67.firebaseio.com",
+    "project_id": "flash-shat-32b67",
+    "storage_bucket": "flash-shat-32b67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673897929115:android:d38fdb89a818d676dae93e",
+        "android_client_info": {
+          "package_name": "co.bahaa.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673897929115-1ooggionmmr1dabj1vv3p7gclh6mevsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdMGSPhihZK6a8UtXAFAXD71SIWlHE92c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673897929115-1ooggionmmr1dabj1vv3p7gclh6mevsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673897929115:android:0efef7833a1852eadae93e",
+        "android_client_info": {
+          "package_name": "com.bahaa.flashshatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673897929115-1ooggionmmr1dabj1vv3p7gclh6mevsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdMGSPhihZK6a8UtXAFAXD71SIWlHE92c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673897929115-1ooggionmmr1dabj1vv3p7gclh6mevsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
